@@ -1,0 +1,3 @@
+[submodule "src/inflate"]
+	path = src/inflate
+	url = git@github.com:nak0yui/jquery.inflate.js.git

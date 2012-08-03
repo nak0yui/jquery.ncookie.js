@@ -1,0 +1,33 @@
+{
+  "srcname": "ncookie",
+  "name": "jquery.ncookie",
+  "title": "jQuery nCookie",
+  "description": "Cookie jquery plugin.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/nak0yui/jquery.ncookie.js",
+  "author": {
+    "name": "nak0yui",
+    "email": "nak0yui@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nak0yui/jquery.ncookie.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nak0yui/jquery.ncookie.js/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/nak0yui/jquery.ncookie.js/blob/master/LICENSE-MIT"
+    },
+    {
+      "type": "GPL",
+      "url": "https://github.com/nak0yui/jquery.ncookie.js/blob/master/LICENSE-GPL"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">= 1.6"
+  },
+  "keywords": []
+}
